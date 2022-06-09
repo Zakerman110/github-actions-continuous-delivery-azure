@@ -14,5 +14,5 @@ env:
   #################################################
   #################################################
   ### REPLACE USERNAME WITH GH USERNAME         ###
-  AZURE_WEBAPP_NAME: Zakerman110-ttt-app
+  AZURE_WEBAPP_NAME: zakerman110-ttt-app
   #################################################
